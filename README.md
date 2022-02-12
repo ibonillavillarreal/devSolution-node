@@ -1,4 +1,4 @@
-# WebServer + RestServer
+# WebServer + RestServer - ver 0.0.1
 
-Esta Appi esta pensada para la reutilizacion en cualquier logica de negocio 
-Api ahora contiene tablas de SoftLan que se usan en el CRUD 
+Appi para cualquier logica de negocio - mySql
+
