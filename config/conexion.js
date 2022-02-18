@@ -25,7 +25,7 @@ const conexion2 = {
      }
 }
 
-const conexion = {
+const conexion4 = {
     user:'root',
     password:'123456789',
     database:'db_soluciones',
@@ -36,5 +36,18 @@ const conexion = {
          encrypt:false
      }
 }
+
+const conexion = {
+    user:'uhn5pbh5istumqfb',
+    password:'7ljtMlsD8ALg0I7ppvJu',
+    database:'b16ymttopulg8hncsmky',
+    server:'b16ymttopulg8hncsmky-mysql.services.clever-cloud.com',
+     options:{
+         trustedconnection:false,
+         enableArithAbort:true,
+         encrypt:false
+     }
+}
+
 
 module.exports =conexion;
